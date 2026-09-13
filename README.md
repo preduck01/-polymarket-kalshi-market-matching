@@ -105,7 +105,7 @@ the output this reference describes how to construct. If the reason you want the
 told when two venues disagree rather than to hold the data yourself, [Preduck alerts](https://www.preduck.com/alerts)
 fires email and webhook triggers on probability thresholds and cross venue gaps.
 
-How the matching and the unified odds are defined is written up at https://docs.preduck.com/
+How the matching and the unified odds are defined is written up in the [Preduck documentation](https://docs.preduck.com/).
 
 Collected from the public Polymarket and Kalshi read APIs on 13 September 2026. Venue naming changes
 without notice, so re-check any specific slug or ticker before relying on it.
